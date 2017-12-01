@@ -1,0 +1,1 @@
+docker build --force-rm --rm --squash --tag ng5cli:latest .\
